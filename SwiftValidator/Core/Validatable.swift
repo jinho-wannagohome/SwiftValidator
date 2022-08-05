@@ -6,7 +6,8 @@
 //  Copyright © 2016 jpotts18. All rights reserved.
 //
 
-import Foundation
+import UIKit.UITextField
+import UIKit.UITextView
 
 public typealias ValidatableField = AnyObject & Validatable
 
